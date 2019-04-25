@@ -1,0 +1,4 @@
+Uml 
+<<Extend>>  ---> Bisa ya bisa tidak
+<<Include>> ---> bersifat wajib
+

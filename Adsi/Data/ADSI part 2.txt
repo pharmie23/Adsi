@@ -1,0 +1,75 @@
+﻿Physical Resources
+-------------------
+- Material             -
+- SDM 		             - 
+- Mesin		       		   - Tergantung Dari Sebuah Perusahaan  
+++++++++++++++++++++	 -
+- Uang 		           -
+
+
+++++++++++++++++++++
+Physical Model 
+++++++++++++++++++++
+-Narative models
+-Graphic Models 
+-Mathematical Models
+	-Digunakan untuk menghitung Jumlah pemasukan dan pengeluaran 
+	-Eoq --> Economic Order Quantity
+++++++++++++++++++++
+Input Resources -> Transformation Process -> Output Resources
+							|
+							|
+							v
+					Proses transformasi yang menghasilkan output
++++++++++++++++++++++
+konseptual sistem 
+- Open loop System 
+- Close loop system
+++++++++++++++++++++
+Close loop 
+++++++++++++++++++++
+
+		Feedback                       feedback 
+     ----------- Mekanisme kontrol <------------------------
+	|														|
+	V														|
+Input Resources --> Transformation process ---> output Resources
+				
+				
++++++++++++++++++++++++
+fisikal Sistem sebagai system kontrol
++++++++++++++++++++++++
+
+		Information                       Information 
+     ------------------ Management <------------------------
+	|														|
+	V														|
+Input Resources --> Transformation process ---> output Resources
+
+++++++++++++++++++++++++
+Informasi yang dikumpulkan dari semua elemen sistem 
+++++++++++++++++++++++++
+
+
+		Information                       Information 
+     ------------------ Management <----------------------------
+	|															|		 
+	|     ----------------------------------------------------->|
+	|    | 					^									|
+	|    | 					|									|
+	V    |					|									|
+Input Resources --> Transformation process ---> output Resources
+
+++++++++++++++++++
+Konseptual system 
+++++++++++++++++++
+- Kontrol dari fisikal system 
+Terdiri dari :
+- Management
+- proses informasi 
+- standar  
+
+
+				
+				
+				
